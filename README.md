@@ -10,5 +10,6 @@ We propose a new bias quantification measure that relies on the fuzzy-rough set 
 We tested our measure on the German Credit data set (retrieved from UCI Machine Learning Repository) which is widely used in the context of AI Fairness. The source code can be found in the 'fuzzy-rough uncertainty.ipynb' file. Then, we compare our measure to popular literature measures using the AIF360 (see https://aif360.mybluemix.net) toolkit. The source code for this can be found in the 'baselines.ipynb' file.
 
 We look forward to any comments or feedback. 
+Feel free to send your questions to lisa.koutsoviti@uhasselt.be
 
-An extention of the paper can be found here: https://www.researchgate.net/publication/354065853_A_fuzzy-rough_uncertainty_measure_to_discover_bias_encoded_explicitly_or_implicitly_in_features_of_structured_pattern_classification_datasets. We will release the source code soon. 
+An extention of the paper can be found here: https://www.researchgate.net/publication/354065853_A_fuzzy-rough_uncertainty_measure_to_discover_bias_encoded_explicitly_or_implicitly_in_features_of_structured_pattern_classification_datasets. The source code for the extention will be released soon. 
