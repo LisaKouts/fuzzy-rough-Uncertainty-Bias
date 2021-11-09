@@ -1,5 +1,8 @@
 # Fuzzy-rough-Uncertainty-Bias
-This repository contains the source code related to the conference paper Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021. The paper can be found here: https://www.researchgate.net/publication/353098759_Bias_Quantification_for_Protected_Features_in_Pattern_Classification_Problems
+This repository contains:
+- the source code related to the conference paper Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021. The paper can be found here: https://www.researchgate.net/publication/353098759_Bias_Quantification_for_Protected_Features_in_Pattern_Classification_Problems
+
+- the Master Thesis with the initial experiments that led to the paper above. The thesis wa written in framework of the program Data Science and Society in Tilburg University. It was submitted on January 15, 2021. It contains our initial attempts to create a fuzzy-rough set-based bias quantification measure. After submission, we developed a stronger measure which is presented in the conference paper Bias Quantication for Protected Features in Pattern Classication Problems (Koutsoviti Koumeri & Napoles, 2021)
 
 **Description**
 
