@@ -15,4 +15,4 @@ We tested our measure on the German Credit data set (retrieved from UCI Machine 
 We look forward to any comments or feedback. 
 Feel free to send your questions to lisa.koutsoviti@uhasselt.be
 
-An extention of the paper can be found here: https://www.researchgate.net/publication/354065853_A_fuzzy-rough_uncertainty_measure_to_discover_bias_encoded_explicitly_or_implicitly_in_features_of_structured_pattern_classification_datasets. The source code for the extention will be released soon. 
+An extention of the paper can be found here: https://www.researchgate.net/publication/357719245_A_fuzzy-rough_uncertainty_measure_to_discover_bias_encoded_explicitly_or_implicitly_in_features_of_structured_pattern_classification_datasets. The source code for the extention will be released soon. 
