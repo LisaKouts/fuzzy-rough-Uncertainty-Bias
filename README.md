@@ -4,7 +4,7 @@ This repository contains:
 
 - the Python notebook with the methodology and experimental setup of the journal paper *A fuzzy-rough uncertainty measure to discover bias encoded explicitly or implicitly in features of structured pattern classification datasets* which can be found <a href="https://www.sciencedirect.com/science/article/pii/S0167865522000058?via%3Dihub">here</a>.
 
-- the master thesis with the initial experiments that led to the paper above. The thesis was written in framework of the program Data Science and Society in Tilburg University. It was submitted on January 15, 2021. It contains our initial attempts to create a fuzzy-rough set-based bias quantification measure. After submission, we developed a stronger measure which is presented in the conference paper Bias Quantication for Protected Features in Pattern Classication Problems (Koutsoviti Koumeri & Napoles, 2021)
+- the master thesis with the initial experiments that led to the paper above. The thesis was written in framework of the program Data Science and Society in Tilburg University. It was submitted on January 15, 2021. It contains our initial attempts to create a fuzzy-rough set-based bias quantification measure. After submission, we developed a stronger measure which is presented in the conference paper Bias Quantication for Protected Features in Pattern Classication Problems (Koumeri & Napoles, 2021)
 
 **Description**
 
