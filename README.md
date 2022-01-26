@@ -1,6 +1,6 @@
 # Fuzzy-rough-Uncertainty-Bias
 This repository contains:
-- the Python notebook with the methodology and experimental setup of the conference paper *Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021*. The paper can be found here: https://www.researchgate.net/publication/353098759_Bias_Quantification_for_Protected_Features_in_Pattern_Classification_Problems
+- the Python notebook with the methodology and experimental setup of the conference paper *Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021*. The paper can be found <a href="https://www.researchgate.net/publication/353098759_Bias_Quantification_for_Protected_Features_in_Pattern_Classification_Problems">here</a>
 
 - the Python notebook with the methodology and experimental setup of the journal paper *A fuzzy-rough uncertainty measure to discover bias encoded explicitly or implicitly in features of structured pattern classification datasets*: https://www.sciencedirect.com/science/article/pii/S0167865522000058?via%3Dihub. The source code for the extention will be released soon. 
 
