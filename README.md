@@ -1,6 +1,8 @@
 # Fuzzy-rough-Uncertainty-Bias
 This repository contains:
-- the source code related to the conference paper Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021. The paper can be found here: https://www.researchgate.net/publication/353098759_Bias_Quantification_for_Protected_Features_in_Pattern_Classification_Problems
+- the Python notebook with the methodology and experimental setup of the conference paper *Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021*. The paper can be found here: https://www.researchgate.net/publication/353098759_Bias_Quantification_for_Protected_Features_in_Pattern_Classification_Problems
+
+- the Python notebook with the methodology and experimental setup of the journal paper *A fuzzy-rough uncertainty measure to discover bias encoded explicitly or implicitly in features of structured pattern classification datasets*: https://www.sciencedirect.com/science/article/pii/S0167865522000058?via%3Dihub. The source code for the extention will be released soon. 
 
 - the master thesis with the initial experiments that led to the paper above. The thesis was written in framework of the program Data Science and Society in Tilburg University. It was submitted on January 15, 2021. It contains our initial attempts to create a fuzzy-rough set-based bias quantification measure. After submission, we developed a stronger measure which is presented in the conference paper Bias Quantication for Protected Features in Pattern Classication Problems (Koutsoviti Koumeri & Napoles, 2021)
 
@@ -14,5 +16,3 @@ We tested our measure on the German Credit data set (retrieved from UCI Machine 
 
 We look forward to any comments or feedback. 
 Feel free to send your questions to lisa.koutsoviti@uhasselt.be
-
-An extention of the paper can be found here: https://www.researchgate.net/publication/357719245_A_fuzzy-rough_uncertainty_measure_to_discover_bias_encoded_explicitly_or_implicitly_in_features_of_structured_pattern_classification_datasets. The source code for the extention will be released soon. 
