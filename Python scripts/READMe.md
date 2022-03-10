@@ -20,4 +20,8 @@ This python file contains the following functions:
 
 This python file contains the main script where users can specify the dataset of choice as well as the distance function, the implicator and conjunction and the smoothing parameter. 
 
+### baselines.ipynb
+
+This Python notebook shows the way that we calculated the state-of-the-art baseline measures in group- and individual-fairness settings using AIF360 toolkit.
+
 ### To upload - notebook that creates the synthetic dataset
