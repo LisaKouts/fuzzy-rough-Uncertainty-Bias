@@ -8,7 +8,7 @@ The .csv and .data files in this folder are the datasets that were used in our e
 
 This python file contains the pre-processing steps for each dataset. 
 
-### FRU
+### FRU.py
 
 This python file contains the following functions:
 
@@ -17,6 +17,6 @@ This python file contains the following functions:
 
 ### Explicit_bias_experimental_setup.py
 
-This file contains the main script where users can specify the dataset of choice as well as the distance function, the implicator and conjunction and the smoothing parameter. 
+This python file contains the main script where users can specify the dataset of choice as well as the distance function, the implicator and conjunction and the smoothing parameter. 
 
 ### To upload - notebook that creates the synthetic dataset
